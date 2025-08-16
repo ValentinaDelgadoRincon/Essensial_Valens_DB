@@ -2,7 +2,7 @@
     {
         "id": "U001",
         "nombre": "Laura Gómez",
-        "correo": "laura.gomez@mail.com",
+        "correo": "laura.gomez@gmail.com",
         "ciudad": "Bogotá",
         "intereses": [
             "arte moderno",
@@ -22,7 +22,7 @@
     {
         "id": "U002",
         "nombre": "Carlos Pérez",
-        "correo": "carlos.perez@mail.com",
+        "correo": "carlos.perez@gmail.com",
         "ciudad": "Medellín",
         "intereses": [
             "pintura clásica",
@@ -38,7 +38,7 @@
     {
         "id": "U003",
         "nombre": "Ana Torres",
-        "correo": "ana.torres@mail.com",
+        "correo": "ana.torres@gmail.co",
         "ciudad": "Cali",
         "intereses": [
             "arte contemporáneo",
@@ -54,7 +54,7 @@
     {
         "id": "U004",
         "nombre": "Javier Martínez",
-        "correo": "javier.mtz@mail.com",
+        "correo": "javier.mtz@gmail.com",
         "ciudad": "Bogotá",
         "intereses": [
             "arqueología",
@@ -70,7 +70,7 @@
     {
         "id": "U005",
         "nombre": "María Rodríguez",
-        "correo": "maria.rod@mail.com",
+        "correo": "maria.rod@gmail.co",
         "ciudad": "Cartagena",
         "intereses": [
             "arte precolombino",
@@ -86,7 +86,7 @@
     {
         "id": "U006",
         "nombre": "Daniel Silva",
-        "correo": "daniel.silva@mail.com",
+        "correo": "daniel.silva@gmail.com",
         "ciudad": "Bogotá",
         "intereses": [
             "arte digital",
@@ -102,7 +102,7 @@
     {
         "id": "U007",
         "nombre": "Paula Herrera",
-        "correo": "paula.herrera@mail.com",
+        "correo": "paula.herrera@gmail.co",
         "ciudad": "Cali",
         "intereses": [
             "pintura clásica",
@@ -118,7 +118,7 @@
     {
         "id": "U008",
         "nombre": "Andrés López",
-        "correo": "andres.lopez@mail.com",
+        "correo": "andres.lopez@gmail.com",
         "ciudad": "Medellín",
         "intereses": [
             "música",
@@ -134,7 +134,7 @@
     {
         "id": "U009",
         "nombre": "Sofía Ramírez",
-        "correo": "sofia.ramirez@mail.com",
+        "correo": "sofia.ramirez@gmail.com",
         "ciudad": "Bogotá",
         "intereses": [
             "escultura",
@@ -150,7 +150,7 @@
     {
         "id": "U010",
         "nombre": "Felipe Castro",
-        "correo": "felipe.castro@mail.com",
+        "correo": "felipe.castro@gmail.com",
         "ciudad": "Barranquilla",
         "intereses": [
             "arte contemporáneo",
