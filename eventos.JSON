@@ -1,0 +1,72 @@
+[
+    {
+        "id": "EV001",
+        "nombre": "Conferencia sobre Oro Precolombino",
+        "fecha": "2025-02-15",
+        "exposicion_id": "E001",
+        "presentador": "Dr. Mejía"
+    },
+    {
+        "id": "EV002",
+        "nombre": "Taller de Pintura Renacentista",
+        "fecha": "2025-01-20",
+        "exposicion_id": "E002",
+        "presentador": "María Cano"
+    },
+    {
+        "id": "EV003",
+        "nombre": "Visita Guiada Arte Moderno",
+        "fecha": "2025-03-10",
+        "exposicion_id": "E003",
+        "presentador": "Carlos Jaramillo"
+    },
+    {
+        "id": "EV004",
+        "nombre": "Charla Momificación Egipcia",
+        "fecha": "2025-01-25",
+        "exposicion_id": "E004",
+        "presentador": "Ana Beltrán"
+    },
+    {
+        "id": "EV005",
+        "nombre": "Escultura en el Siglo XX",
+        "fecha": "2025-03-05",
+        "exposicion_id": "E005",
+        "presentador": "Ricardo López"
+    },
+    {
+        "id": "EV006",
+        "nombre": "Debate sobre Arte Colonial",
+        "fecha": "2025-02-28",
+        "exposicion_id": "E006",
+        "presentador": "Paula Jiménez"
+    },
+    {
+        "id": "EV007",
+        "nombre": "Exhibición de Arte Digital",
+        "fecha": "2025-03-15",
+        "exposicion_id": "E007",
+        "presentador": "Daniel Ruiz"
+    },
+    {
+        "id": "EV008",
+        "nombre": "Concierto Inspirado en Picasso",
+        "fecha": "2025-03-20",
+        "exposicion_id": "E008",
+        "presentador": "Orquesta Filarmónica"
+    },
+    {
+        "id": "EV009",
+        "nombre": "Taller de Fotografía Urbana",
+        "fecha": "2025-03-25",
+        "exposicion_id": "E009",
+        "presentador": "Camilo Herrera"
+    },
+    {
+        "id": "EV010",
+        "nombre": "Festival Cine Digital",
+        "fecha": "2025-04-10",
+        "exposicion_id": "E010",
+        "presentador": "Natalia Gómez"
+    }
+]

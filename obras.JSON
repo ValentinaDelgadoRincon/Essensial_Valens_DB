@@ -1,0 +1,72 @@
+[
+    {
+        "id": "O001",
+        "titulo": "Máscara de Oro",
+        "autor": "Cultura Quimbaya",
+        "anio": -500,
+        "exposicion_id": "E001"
+    },
+    {
+        "id": "O002",
+        "titulo": "La Mona Lisa",
+        "autor": "Leonardo da Vinci",
+        "anio": 1503,
+        "exposicion_id": "E002"
+    },
+    {
+        "id": "O003",
+        "titulo": "El Grito",
+        "autor": "Edvard Munch",
+        "anio": 1893,
+        "exposicion_id": "E003"
+    },
+    {
+        "id": "O004",
+        "titulo": "Sarcófago Egipcio",
+        "autor": "Artesanos de Tebas",
+        "anio": -1000,
+        "exposicion_id": "E004"
+    },
+    {
+        "id": "O005",
+        "titulo": "El Pensador",
+        "autor": "Auguste Rodin",
+        "anio": 1902,
+        "exposicion_id": "E005"
+    },
+    {
+        "id": "O006",
+        "titulo": "Virgen de Quito",
+        "autor": "Bernardo de Legarda",
+        "anio": 1734,
+        "exposicion_id": "E006"
+    },
+    {
+        "id": "O007",
+        "titulo": "Escultura Digital 3D",
+        "autor": "Ana Rivera",
+        "anio": 2022,
+        "exposicion_id": "E007"
+    },
+    {
+        "id": "O008",
+        "titulo": "Guernica",
+        "autor": "Pablo Picasso",
+        "anio": 1937,
+        "exposicion_id": "E008"
+    },
+    {
+        "id": "O009",
+        "titulo": "Fotografía de Nueva York",
+        "autor": "Steve McCurry",
+        "anio": 2010,
+        "exposicion_id": "E009"
+    },
+    {
+        "id": "O010",
+        "titulo": "Cortometraje Experimental",
+        "autor": "Andrés López",
+        "anio": 2023,
+        "exposicion_id": "E010"
+    }
+]

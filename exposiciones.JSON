@@ -1,0 +1,82 @@
+[
+    {
+        "id": "E001",
+        "titulo": "El Oro de Colombia",
+        "categoria": "Arte precolombino",
+        "fecha_inicio": "2025-02-01",
+        "fecha_fin": "2025-05-01",
+        "curador": "Dr. Luis Mejía"
+    },
+    {
+        "id": "E002",
+        "titulo": "Maestros del Renacimiento",
+        "categoria": "Pintura clásica",
+        "fecha_inicio": "2025-01-10",
+        "fecha_fin": "2025-04-15",
+        "curador": "María Cano"
+    },
+    {
+        "id": "E003",
+        "titulo": "Arte Moderno Latinoamericano",
+        "categoria": "Arte moderno",
+        "fecha_inicio": "2025-03-01",
+        "fecha_fin": "2025-06-30",
+        "curador": "Carlos Jaramillo"
+    },
+    {
+        "id": "E004",
+        "titulo": "Momias de Egipto",
+        "categoria": "Arqueología",
+        "fecha_inicio": "2025-01-05",
+        "fecha_fin": "2025-04-20",
+        "curador": "Ana Beltrán"
+    },
+    {
+        "id": "E005",
+        "titulo": "Esculturas del Siglo XX",
+        "categoria": "Escultura",
+        "fecha_inicio": "2025-02-15",
+        "fecha_fin": "2025-05-15",
+        "curador": "Ricardo López"
+    },
+    {
+        "id": "E006",
+        "titulo": "Arte Colonial en América",
+        "categoria": "Arte religioso",
+        "fecha_inicio": "2025-02-20",
+        "fecha_fin": "2025-05-30",
+        "curador": "Paula Jiménez"
+    },
+    {
+        "id": "E007",
+        "titulo": "Arte y Tecnología",
+        "categoria": "Arte digital",
+        "fecha_inicio": "2025-03-10",
+        "fecha_fin": "2025-06-10",
+        "curador": "Daniel Ruiz"
+    },
+    {
+        "id": "E008",
+        "titulo": "Picasso y la Música",
+        "categoria": "Arte moderno",
+        "fecha_inicio": "2025-03-05",
+        "fecha_fin": "2025-06-20",
+        "curador": "Laura Salazar"
+    },
+    {
+        "id": "E009",
+        "titulo": "Fotografía Urbana",
+        "categoria": "Fotografía",
+        "fecha_inicio": "2025-03-12",
+        "fecha_fin": "2025-06-25",
+        "curador": "Camilo Herrera"
+    },
+    {
+        "id": "E010",
+        "titulo": "Cine y Arte Digital",
+        "categoria": "Cine",
+        "fecha_inicio": "2025-04-01",
+        "fecha_fin": "2025-07-15",
+        "curador": "Natalia Gómez"
+    }
+]

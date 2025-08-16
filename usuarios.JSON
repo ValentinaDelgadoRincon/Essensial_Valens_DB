@@ -1,0 +1,166 @@
+[
+    {
+        "id": "U001",
+        "nombre": "Laura Gómez",
+        "correo": "laura.gomez@mail.com",
+        "ciudad": "Bogotá",
+        "intereses": [
+            "arte moderno",
+            "arqueología"
+        ],
+        "visitas": [
+            {
+                "fecha": "2025-02-10",
+                "exposicion": "El Oro de Colombia"
+            },
+            {
+                "fecha": "2025-03-01",
+                "exposicion": "Arte Moderno Latinoamericano"
+            }
+        ]
+    },
+    {
+        "id": "U002",
+        "nombre": "Carlos Pérez",
+        "correo": "carlos.perez@mail.com",
+        "ciudad": "Medellín",
+        "intereses": [
+            "pintura clásica",
+            "fotografía"
+        ],
+        "visitas": [
+            {
+                "fecha": "2025-01-15",
+                "exposicion": "Maestros del Renacimiento"
+            }
+        ]
+    },
+    {
+        "id": "U003",
+        "nombre": "Ana Torres",
+        "correo": "ana.torres@mail.com",
+        "ciudad": "Cali",
+        "intereses": [
+            "arte contemporáneo",
+            "escultura"
+        ],
+        "visitas": [
+            {
+                "fecha": "2025-02-20",
+                "exposicion": "Esculturas del Siglo XX"
+            }
+        ]
+    },
+    {
+        "id": "U004",
+        "nombre": "Javier Martínez",
+        "correo": "javier.mtz@mail.com",
+        "ciudad": "Bogotá",
+        "intereses": [
+            "arqueología",
+            "historia antigua"
+        ],
+        "visitas": [
+            {
+                "fecha": "2025-01-05",
+                "exposicion": "Momias de Egipto"
+            }
+        ]
+    },
+    {
+        "id": "U005",
+        "nombre": "María Rodríguez",
+        "correo": "maria.rod@mail.com",
+        "ciudad": "Cartagena",
+        "intereses": [
+            "arte precolombino",
+            "fotografía"
+        ],
+        "visitas": [
+            {
+                "fecha": "2025-03-10",
+                "exposicion": "El Oro de Colombia"
+            }
+        ]
+    },
+    {
+        "id": "U006",
+        "nombre": "Daniel Silva",
+        "correo": "daniel.silva@mail.com",
+        "ciudad": "Bogotá",
+        "intereses": [
+            "arte digital",
+            "cine"
+        ],
+        "visitas": [
+            {
+                "fecha": "2025-04-01",
+                "exposicion": "Cine y Arte Digital"
+            }
+        ]
+    },
+    {
+        "id": "U007",
+        "nombre": "Paula Herrera",
+        "correo": "paula.herrera@mail.com",
+        "ciudad": "Cali",
+        "intereses": [
+            "pintura clásica",
+            "arte religioso"
+        ],
+        "visitas": [
+            {
+                "fecha": "2025-02-28",
+                "exposicion": "Arte Colonial en América"
+            }
+        ]
+    },
+    {
+        "id": "U008",
+        "nombre": "Andrés López",
+        "correo": "andres.lopez@mail.com",
+        "ciudad": "Medellín",
+        "intereses": [
+            "música",
+            "arte moderno"
+        ],
+        "visitas": [
+            {
+                "fecha": "2025-03-05",
+                "exposicion": "Picasso y la Música"
+            }
+        ]
+    },
+    {
+        "id": "U009",
+        "nombre": "Sofía Ramírez",
+        "correo": "sofia.ramirez@mail.com",
+        "ciudad": "Bogotá",
+        "intereses": [
+            "escultura",
+            "fotografía"
+        ],
+        "visitas": [
+            {
+                "fecha": "2025-03-15",
+                "exposicion": "Fotografía Urbana"
+            }
+        ]
+    },
+    {
+        "id": "U010",
+        "nombre": "Felipe Castro",
+        "correo": "felipe.castro@mail.com",
+        "ciudad": "Barranquilla",
+        "intereses": [
+            "arte contemporáneo",
+            "arte digital"
+        ],
+        "visitas": [
+            {
+                "fecha": "2025-02-18",
+                "exposicion": "Arte y Tecnología"
+            }
+        ]
+    }
+]
