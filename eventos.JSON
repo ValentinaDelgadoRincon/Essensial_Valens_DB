@@ -4,69 +4,79 @@
         "nombre": "Conferencia sobre Oro Precolombino",
         "fecha": "2025-02-15",
         "exposicion_id": "E001",
-        "presentador": "Dr. Mejía"
+        "presentador": "Dr. Mejía",
+        "lugar": "Auditorio Principal - Museo Nacional",
+        "descripcion": "Una conferencia académica sobre el simbolismo y técnicas de orfebrería en las culturas precolombinas de Colombia."
     },
     {
         "id": "EV002",
         "nombre": "Taller de Pintura Renacentista",
         "fecha": "2025-01-20",
         "exposicion_id": "E002",
-        "presentador": "María Cano"
+        "presentador": "María Cano",
+        "lugar": "Sala Talleres Artísticos - Museo de Bellas Artes",
+        "descripcion": "Un taller práctico donde los asistentes aprenderán las técnicas de la pintura al óleo empleadas por maestros renacentistas."
     },
     {
         "id": "EV003",
         "nombre": "Visita Guiada Arte Moderno",
         "fecha": "2025-03-10",
         "exposicion_id": "E003",
-        "presentador": "Carlos Jaramillo"
+        "presentador": "Carlos Jaramillo",
+        "lugar": "Galería Arte Moderno - Piso 2",
+        "descripcion": "Recorrido guiado por la exposición de arte moderno, con explicaciones sobre las principales corrientes y artistas."
     },
     {
         "id": "EV004",
         "nombre": "Charla Momificación Egipcia",
         "fecha": "2025-01-25",
         "exposicion_id": "E004",
-        "presentador": "Ana Beltrán"
+        "presentador": "Ana Beltrán",
+        "lugar": "Sala Egipto Antiguo - Museo de Historia",
+        "descripcion": "Una charla didáctica que explora los rituales funerarios y la técnica de momificación en el antiguo Egipto."
     },
     {
         "id": "EV005",
-        "nombre": "Escultura en el Siglo XX",
+        "nombre": "Escultura en el Siglo 20",
         "fecha": "2025-03-05",
         "exposicion_id": "E005",
-        "presentador": "Ricardo López"
+        "presentador": "Ricardo López",
+        "lugar": "Sala Esculturas - Centro Cultural",
+        "descripcion": "Conferencia y recorrido por esculturas del siglo XX, destacando las tendencias artísticas y materiales innovadores."
     },
     {
         "id": "EV006",
         "nombre": "Debate sobre Arte Colonial",
         "fecha": "2025-02-28",
         "exposicion_id": "E006",
-        "presentador": "Paula Jiménez"
+        "presentador": "Paula Jiménez",
+        "lugar": "Salón de Conferencias - Biblioteca Nacional",
+        "descripcion": "Un debate abierto sobre la influencia del arte colonial en la identidad cultural latinoamericana."
     },
     {
         "id": "EV007",
         "nombre": "Exhibición de Arte Digital",
         "fecha": "2025-03-15",
         "exposicion_id": "E007",
-        "presentador": "Daniel Ruiz"
+        "presentador": "Daniel Ruiz",
+        "lugar": "Sala Multimedia - Centro de Innovación",
+        "descripcion": "Una muestra interactiva de obras digitales, animaciones y experiencias inmersivas creadas con nuevas tecnologías."
     },
     {
         "id": "EV008",
         "nombre": "Concierto Inspirado en Picasso",
         "fecha": "2025-03-20",
         "exposicion_id": "E008",
-        "presentador": "Orquesta Filarmónica"
+        "presentador": "Orquesta Filarmónica",
+        "lugar": "Teatro Principal - Museo de Arte",
+        "descripcion": "Concierto sinfónico inspirado en la vida y obra de Pablo Picasso, fusionando música y artes visuales."
     },
     {
         "id": "EV009",
         "nombre": "Taller de Fotografía Urbana",
         "fecha": "2025-03-25",
         "exposicion_id": "E009",
-        "presentador": "Camilo Herrera"
-    },
-    {
-        "id": "EV010",
-        "nombre": "Festival Cine Digital",
-        "fecha": "2025-04-10",
-        "exposicion_id": "E010",
-        "presentador": "Natalia Gómez"
-    }
-]
+        "presentador": "Camilo Herrera",
+        "lugar": "Plaza Central y Sala Fotografía - Museo de la Ciudad",
+        "descripcion": "Taller práctico"
+    }]

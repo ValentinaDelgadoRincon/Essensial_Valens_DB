@@ -5,7 +5,9 @@
         "categoria": "Arte precolombino",
         "fecha_inicio": "2025-02-01",
         "fecha_fin": "2025-05-01",
-        "curador": "Dr. Luis Mejía"
+        "presentador": "Dr. Luis Mejía",
+        "descripcion": "Exposición de piezas y artefactos precolombinos que muestran la riqueza cultural y simbólica del oro en Colombia.",
+        "tipo": "Temporal"
     },
     {
         "id": "E002",
@@ -13,7 +15,9 @@
         "categoria": "Pintura clásica",
         "fecha_inicio": "2025-01-10",
         "fecha_fin": "2025-04-15",
-        "curador": "María Cano"
+        "presentador": "María Cano",
+        "descripcion": "Muestra de obras y réplicas de los grandes maestros del Renacimiento, con enfoque en su influencia en el arte universal.",
+        "tipo": "Permanente"
     },
     {
         "id": "E003",
@@ -21,7 +25,9 @@
         "categoria": "Arte moderno",
         "fecha_inicio": "2025-03-01",
         "fecha_fin": "2025-06-30",
-        "curador": "Carlos Jaramillo"
+        "presentador": "Carlos Jaramillo",
+        "descripcion": "Colección de pinturas y esculturas que representan la diversidad cultural y la identidad del arte latinoamericano moderno.",
+        "tipo": "Temporal"
     },
     {
         "id": "E004",
@@ -29,15 +35,19 @@
         "categoria": "Arqueología",
         "fecha_inicio": "2025-01-05",
         "fecha_fin": "2025-04-20",
-        "curador": "Ana Beltrán"
+        "presentador": "Ana Beltrán",
+        "descripcion": "Exposición arqueológica de momias, sarcófagos y objetos funerarios que reflejan la cosmovisión del antiguo Egipto.",
+        "tipo": "Temporal"
     },
     {
         "id": "E005",
-        "titulo": "Esculturas del Siglo XX",
+        "titulo": "Esculturas del Siglo 20",
         "categoria": "Escultura",
         "fecha_inicio": "2025-02-15",
         "fecha_fin": "2025-05-15",
-        "curador": "Ricardo López"
+        "presentador": "Ricardo López",
+        "descripcion": "Selección de esculturas representativas de las corrientes artísticas más influyentes del siglo XX.",
+        "tipo": "Permanente"
     },
     {
         "id": "E006",
@@ -45,7 +55,9 @@
         "categoria": "Arte religioso",
         "fecha_inicio": "2025-02-20",
         "fecha_fin": "2025-05-30",
-        "curador": "Paula Jiménez"
+        "presentador": "Paula Jiménez",
+        "descripcion": "Obras de arte religioso y civil que narran la historia y el impacto del arte colonial en América Latina.",
+        "tipo": "Temporal"
     },
     {
         "id": "E007",
@@ -53,7 +65,9 @@
         "categoria": "Arte digital",
         "fecha_inicio": "2025-03-10",
         "fecha_fin": "2025-06-10",
-        "curador": "Daniel Ruiz"
+        "presentador": "Daniel Ruiz",
+        "descripcion": "Exposición interactiva que explora la relación entre las nuevas tecnologías y las expresiones artísticas digitales.",
+        "tipo": "Temporal"
     },
     {
         "id": "E008",
@@ -61,7 +75,9 @@
         "categoria": "Arte moderno",
         "fecha_inicio": "2025-03-05",
         "fecha_fin": "2025-06-20",
-        "curador": "Laura Salazar"
+        "presentador": "Laura Salazar",
+        "descripcion": "Exposición que muestra la influencia de la música en la obra de Pablo Picasso, a través de pinturas y bocetos.",
+        "tipo": "Permanente"
     },
     {
         "id": "E009",
@@ -69,7 +85,9 @@
         "categoria": "Fotografía",
         "fecha_inicio": "2025-03-12",
         "fecha_fin": "2025-06-25",
-        "curador": "Camilo Herrera"
+        "presentador": "Camilo Herrera",
+        "descripcion": "Galería de imágenes que capturan la vida cotidiana y la estética de los espacios urbanos contemporáneos.",
+        "tipo": "Temporal"
     },
     {
         "id": "E010",
@@ -77,6 +95,8 @@
         "categoria": "Cine",
         "fecha_inicio": "2025-04-01",
         "fecha_fin": "2025-07-15",
-        "curador": "Natalia Gómez"
+        "presentador": "Natalia Gómez",
+        "descripcion": "Exposición audiovisual que analiza la relación entre el cine contemporáneo y las técnicas del arte digital.",
+        "tipo": "Permanente"
     }
 ]

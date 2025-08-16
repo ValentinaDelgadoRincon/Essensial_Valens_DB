@@ -4,69 +4,69 @@
         "usuario_id": "U001",
         "exposicion_id": "E001",
         "comentario": "Increíble colección de oro.",
-        "calificacion": 5
+        "calificacion": "5.0"
     },
     {
         "id": "R002",
         "usuario_id": "U002",
         "exposicion_id": "E002",
         "comentario": "Gran experiencia cultural.",
-        "calificacion": 4
+        "calificacion": "4.2"
     },
     {
         "id": "R003",
         "usuario_id": "U003",
         "exposicion_id": "E005",
         "comentario": "Esculturas impresionantes.",
-        "calificacion": 5
+        "calificacion": "3.1"
     },
     {
         "id": "R004",
         "usuario_id": "U004",
         "exposicion_id": "E004",
         "comentario": "Muy educativo.",
-        "calificacion": 4
+        "calificacion": "5.0"
     },
     {
         "id": "R005",
         "usuario_id": "U005",
         "exposicion_id": "E001",
         "comentario": "Orgullo precolombino.",
-        "calificacion": 5
+        "calificacion": "4.5"
     },
     {
         "id": "R006",
         "usuario_id": "U006",
         "exposicion_id": "E007",
         "comentario": "Arte digital de otro nivel.",
-        "calificacion": 5
+        "calificacion": "3.8"
     },
     {
         "id": "R007",
         "usuario_id": "U007",
         "exposicion_id": "E006",
         "comentario": "Me encantó el arte colonial.",
-        "calificacion": 4
+        "calificacion": "5.0"
     },
     {
         "id": "R008",
         "usuario_id": "U008",
         "exposicion_id": "E008",
         "comentario": "Picasso nunca decepciona.",
-        "calificacion": 5
+        "calificacion": "4.9"
     },
     {
         "id": "R009",
         "usuario_id": "U009",
         "exposicion_id": "E009",
         "comentario": "Fotografía muy inspiradora.",
-        "calificacion": 4
+        "calificacion": "4.1"
     },
     {
         "id": "R010",
         "usuario_id": "U010",
         "exposicion_id": "E010",
         "comentario": "Cine experimental fascinante.",
-        "calificacion": 5
+        "calificacion": "3.2"
     }
 ]
